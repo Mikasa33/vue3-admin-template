@@ -1,4 +1,4 @@
-import { useRequest } from '/@/composables/common/useRequest';
+import { useRequest } from '/@/hooks/common/useRequest';
 
 const { request } = useRequest();
 
